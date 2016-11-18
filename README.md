@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 WheelView
 =========
 
@@ -145,3 +146,7 @@ http://apache.org/licenses/LICENSE-2.0.txt
 
 [1]: ./Graphics/bottom_wheel.gif
 [2]: ./Graphics/center_wheel.gif
+=======
+# WheelView
+自定义七彩滚轮圆形控件，通过手指滑动可选中不同的颜色。
+>>>>>>> 62a40a76f3995e7fee58de56a1fbe3e512b42c79
